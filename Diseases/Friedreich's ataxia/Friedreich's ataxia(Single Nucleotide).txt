@@ -1,0 +1,7 @@
+Name	Gene(s)	Protein change	Condition(s)	Clinical significance (Last reviewed)	Review status	Accession	GRCh37Chromosome	GRCh37Location	GRCh38Chromosome	GRCh38Location	VariationID	AlleleID(s)	dbSNP ID	Canonical SPDI	
+NM_000144.5(FXN):c.517T>G (p.Trp173Gly)	FXN	W173G	Friedreich ataxia	Likely pathogenic(Last reviewed: Dec 30, 2010)	no assertion criteria provided	VCV000003984	9	71687562	9	69072646	3984	19023	rs56214919	NC_000009.12:69072645:T:G
+NM_000144.5(FXN):c.3G>T (p.Met1Ile)	FXN	M1I	Friedreich ataxia|not provided	Pathogenic(Last reviewed: Jul 1, 1998)	no assertion criteria provided	VCV000003983	9	71650701	9	69035785	3983	19022	rs104894108	NC_000009.12:69035784:G:T
+NM_000144.5(FXN):c.389G>T (p.Gly130Val)	FXN	G130V	Friedreich ataxia|not provided	Pathogenic(Last reviewed: Jan 18, 2019)	criteria provided, single submitter	VCV000003982	9	71679858	9	69064942	3982	19021	rs104894107	NC_000009.12:69064941:G:T
+NM_000144.5(FXN):c.460A>T (p.Ile154Phe)	FXN	I154F	Friedreich ataxia	Pathogenic(Last reviewed: Apr 15, 2007)	no assertion criteria provided	VCV000003981	9	71679929	9	69065013	3981	19020	rs104894106	NC_000009.12:69065012:A:T
+NM_000144.5(FXN):c.385-2A>G	FXN		Friedreich ataxia	Pathogenic(Last reviewed: Mar 8, 1996)	no assertion criteria provided	VCV000003980	9	71679852	9	69064936	3980	19019	rs140987490	NC_000009.12:69064935:A:G
+NM_000144.5(FXN):c.317T>G (p.Leu106Ter)	FXN	L106*	Friedreich ataxia	Pathogenic(Last reviewed: Mar 8, 1996)	no assertion criteria provided	VCV000003979	9	71668109	9	69053193	3979	19018	rs104894105	NC_000009.12:69053192:T:G

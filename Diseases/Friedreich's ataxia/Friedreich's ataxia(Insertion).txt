@@ -1,0 +1,2 @@
+Name	Gene(s)	Protein change	Condition(s)	Clinical significance (Last reviewed)	Review status	Accession	GRCh37Chromosome	GRCh37Location	GRCh38Chromosome	GRCh38Location	VariationID	AlleleID(s)	dbSNP ID	Canonical SPDI	
+NG_008845.2:g.6743_6746delinsGAAGGA[66]GAAG	FXN		Friedreich ataxia 1	Likely benign(Last reviewed: Dec 20, 2019)	no assertion criteria provided	VCV000804267					804267	792623		

@@ -1,0 +1,2 @@
+Name	Gene(s)	Protein change	Condition(s)	Clinical significance (Last reviewed)	Review status	Accession	GRCh37Chromosome	GRCh37Location	GRCh38Chromosome	GRCh38Location	VariationID	AlleleID(s)	dbSNP ID	Canonical SPDI	
+NM_004409.5(DMPK):c.161-62dup	DMPK	L45fs	not specified	Uncertain significance(Last reviewed: Mar 28, 2016)	criteria provided, single submitter	VCV000402594	19	46283184 - 46283185	19	45779926 - 45779927	402594	390520	rs751073998	NC_000019.10:45779926:GGGGG:GGGGGG
